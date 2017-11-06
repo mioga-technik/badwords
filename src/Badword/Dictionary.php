@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Badword;
+namespace Badwords;
 
 /**
  * Defines the interface for a dictionary, a.k.a. list, of words.

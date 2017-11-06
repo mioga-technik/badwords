@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace Badword;
+namespace Badwords;
 
 /**
  * Represents a single word and its settings.

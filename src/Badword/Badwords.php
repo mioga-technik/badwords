@@ -1,6 +1,6 @@
 <?php
 
-namespace Badword;
+namespace Badwords;
 
 /**
  * Class Badwords

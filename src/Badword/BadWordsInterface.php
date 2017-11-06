@@ -1,6 +1,6 @@
 <?php
 
-namespace Badword;
+namespace Badwords;
 
 use Badwords\Filter\Config;
 
